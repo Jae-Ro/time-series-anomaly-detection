@@ -1,0 +1,11 @@
+.DS_Store
+.vscode
+.settings
+
+
+.ipynb_checkpoints
+*.pyc
+__pycache__
+
+
+*.csv
